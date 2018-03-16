@@ -8,17 +8,19 @@
 
 ## 效果图
 
+### 新增数据
+
 ![新增数据](https://upload-images.jianshu.io/upload_images/3175257-6546e65c9673312f.gif?imageMogr2/auto-orient/strip)
 
----
+### 删除数据
 
 ![删除数据](https://upload-images.jianshu.io/upload_images/3175257-ce90f2f00250ed58.gif?imageMogr2/auto-orient/strip)
 
----
+### 修改数据
 
 ![修改数据](https://upload-images.jianshu.io/upload_images/3175257-3b53bf7e0919c94c.gif?imageMogr2/auto-orient/strip)
 
----
+### 查看详情页面
 
 ![查看详情页面](https://upload-images.jianshu.io/upload_images/3175257-95b1df081967a7a2.gif?imageMogr2/auto-orient/strip)
 
