@@ -69,6 +69,7 @@ cnpm run dev
 ```
 
 如果在终端，你看到了下图所示，表示项目已经成功启动。接着在浏览器地址栏中输入`localhost://8080`,如果你看到了vue的欢迎界面，表示你已经完成了第一步。
+
 ![第一步：启动项目](https://upload-images.jianshu.io/upload_images/3175257-f283423e50c19d89.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
