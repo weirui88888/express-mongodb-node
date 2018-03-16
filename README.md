@@ -14,9 +14,11 @@
 ---
 
 ![删除数据](https://upload-images.jianshu.io/upload_images/3175257-ce90f2f00250ed58.gif?imageMogr2/auto-orient/strip)
+
 ---
 
 ![修改数据](https://upload-images.jianshu.io/upload_images/3175257-3b53bf7e0919c94c.gif?imageMogr2/auto-orient/strip)
+
 ---
 
 ![查看详情页面](https://upload-images.jianshu.io/upload_images/3175257-95b1df081967a7a2.gif?imageMogr2/auto-orient/strip)
@@ -394,10 +396,12 @@ app.use(express.static('dist'))
 ```
 
 最后看下整个项目的目录结构
+
 ![目录结构](https://upload-images.jianshu.io/upload_images/3175257-0350ca9ca13181a7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 _欢迎小伙伴们提出自己的见解，并且指出文中的错误😊_
+
 _If this article has give you some help . why don't give me a star✨！_
 
 **传送门:**[个人博客](https://github.com/weirui88888/blog)
