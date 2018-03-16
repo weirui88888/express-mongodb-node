@@ -6,7 +6,6 @@
 
 `vue` `element` `mongodb` `express` 
 
----
 ## 效果图
 
 ![新增数据](https://upload-images.jianshu.io/upload_images/3175257-6546e65c9673312f.gif?imageMogr2/auto-orient/strip)
@@ -49,7 +48,7 @@
 
 说了这么多，我想你已经知道了。对！没错，这将是你通向全栈的必经之路。想想都兴奋。那么接下来，让我们进入正文吧。
 
-`建议:`可以去我的github上将我的代码clone一份到本地，跟着我的思路捋一遍，相信看完，你一定会对自己更加有信心。代码中会有**详细注释**，可以解除你的很多疑惑。如果读完这篇文章，你有所收获的话，不要忘记动动你那可爱的小手，给个`star`哦。
+`建议:`将代码clone一份到本地，跟着我的思路捋一遍，相信看完，你一定会对自己更加有信心。代码中会有**详细注释**，可以解除你的很多疑惑。如果读完这篇文章，你有所收获的话，不要忘记动动你那可爱的小手，给个`star`哦。
 
 ---
 
@@ -275,12 +274,12 @@ app.use('/api',hero)
 
 这时你可以通过Postman（模拟http请求数据软件）进行查询测试，如果可以查询到数据，代表后台接口已经成功写好了
 
+![添加模拟数据](https://upload-images.jianshu.io/upload_images/3175257-6a82d66e56081bd4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 **注意：在查询之前，你要简单学习下mongodb如何向数据库中对应的表里面任意添加一条数据，否则，你查询出来的数据为空！！！**
 
 比如我上面创建了一个`myhero`表，那我在执行上面查询之前，我会往表中添加一条模拟数据
-
-![添加模拟数据](https://upload-images.jianshu.io/upload_images/3175257-6a82d66e56081bd4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 ```javascript
 //db.myhero.insert意思就是向数据库中表名为myhero的表中添加一条数据
@@ -382,7 +381,7 @@ export default new Router({
 
 ### 第九步：搭建页面
 
-到这里，所有准备工作已经完成，我们安心写前端代码即可。布局的话,就不多说了。交互方面主要就是在vue中的**methods**选项中定义一系列的方法，并且将方法通过**@click="xxx"**方法绑定到对应的地方，具体方法定义看我写的代码即可。
+到这里，所有准备工作已经完成，我们安心写前端代码即可。布局的话,就不多说了。交互方面主要就是在vue中的**methods**选项中定义一系列的方法，并且将方法通过`@click="xxx"`方法绑定到对应的地方，具体方法定义看我写的代码即可。
 
 
 ## 完结
