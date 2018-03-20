@@ -90,7 +90,7 @@ cnpm run dev
 
 ### 第三步：把后台接口写好
 
-*提示：所谓的后台接口，就是通过express建立路由，如果不明白的话可以去看下express介绍（这里放个链接）。*
+*提示：所谓的后台接口，就是通过express建立路由，如果不明白的话可以去看下express介绍[express官网](http://www.expressjs.com.cn/)。*
 
 前提：通过npm安装`express`、`mongoose`、`body-parser`模块
 
