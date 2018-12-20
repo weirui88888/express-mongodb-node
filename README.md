@@ -1,20 +1,21 @@
-## express+mongodb+vue实现增删改查-全栈之路
-前后端分离实现增删改查
+## express+mongodb+vue实现增删改查-全栈之路2.0
+
+前后端分离实现增删改查Demo
 
 ## 效果图
 
 ### 登陆页
-
+![登陆页](https://user-gold-cdn.xitu.io/2018/12/20/167cb14e1dd84392?w=1460&h=718&f=gif&s=268679)
 ### 查询
-
+![查询](https://user-gold-cdn.xitu.io/2018/12/20/167cb15638df70eb?w=1460&h=718&f=gif&s=81164)
 ### 新增
-
+![新增](https://user-gold-cdn.xitu.io/2018/12/20/167cb15e8d017438?w=1460&h=718&f=gif&s=478159)
 ### 修改
-
+![修改](https://user-gold-cdn.xitu.io/2018/12/20/167cb161ae684a67?w=1460&h=718&f=gif&s=297382)
 ### 删除
-
+![删除](https://user-gold-cdn.xitu.io/2018/12/20/167cb19584fc3497?w=1412&h=677&f=gif&s=347169)
 ### 详情页
-
+![详情](https://user-gold-cdn.xitu.io/2018/12/20/167cb16f24dac194?w=1460&h=718&f=gif&s=3564728)
 ## 技术栈
 `vue` `axios` `vue-router` `express` `mongo` `element` `iconfont` `scss`
 
@@ -222,8 +223,15 @@
 
 **原创不易，且👣且珍惜！**
 
-[Github传送门][9]
+[Github传送门][9] 
+
 ☝️☝️☝️☝️☝️
+
+**ruiwei88888@163.com**
+
+☝️☝️☝️☝️☝️有任何问题，欢迎邮箱私信我！
+
+
 
   [1]: https://juejin.im/post/5aabc2caf265da239376d5ff
   [2]: https://github.com/weirui88888
