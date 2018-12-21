@@ -59,7 +59,7 @@ export default {
   },
   methods: {
     // 登录
-    login: function() {
+    login() {
         var $this = this;
         this.$refs.form.validate(valid => {
               if (valid) {

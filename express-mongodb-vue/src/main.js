@@ -5,6 +5,11 @@ import App from './App'
 import router from './router'
 import VueResource from 'vue-resource'
 
+// 引入echart
+// import echarts from 'echarts' //引入echarts
+// Vue.prototype.$echarts = echarts //引入组件
+
+
 // 引入粒子背景
 import VueParticles from 'vue-particles'
 Vue.use(VueParticles)
