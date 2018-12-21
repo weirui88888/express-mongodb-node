@@ -15,7 +15,7 @@
 ### 删除
 ![删除](https://user-gold-cdn.xitu.io/2018/12/20/167cb19584fc3497?w=1412&h=677&f=gif&s=347169)
 ### 详情页
-![详情](https://user-gold-cdn.xitu.io/2018/12/20/167cb16f24dac194?w=1460&h=718&f=gif&s=3564728)
+![详情](https://user-gold-cdn.xitu.io/2018/12/21/167d0a710750ad9d?w=1413&h=677&f=gif&s=4728826)
 ## 技术栈
 `vue` `axios` `vue-router` `express` `mongo` `element` `iconfont` `scss`
 
